@@ -1,74 +1,118 @@
-## Hi there �
-# 👋 Hi, I'm Abhishek Mishra  
-🚀 Software Engineer | Cloud & Networking | Full-Stack Developer | Data Analyst
+<h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
 
-🎯 Detail-oriented and self-driven Software Engineer skilled in **Java, C/C++, Python**, and **cloud technologies**, with a strong understanding of **networking protocols, distributed systems**, and **SaaS architectures**.  
-Passionate about developing scalable systems, optimizing performance, and contributing to open-source projects.
+<h3 align="center">🚀 Software Engineer | Cloud ☁️ | Networking 🌐 | Full-Stack Developer 💻</h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Cloud+Engineer;Full+Stack+Developer;Data+Analyst;Open+Source+Contributor" />
+</p>
 
 ---
 
 ## 🧠 About Me  
 
-- 🎓 **B.Tech in Computer Science Engineering** – Rajkiya Engineering College, Azamgarh (2022–2026)  
-- 💡 Experienced with **AWS**, **Linux**, and **networking tools**  
-- 💻 Solved **250+ DSA problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/sandilyamish1k3c/)  
-- ⚙️ Focused on **Cloud Computing**, **Distributed Systems**, and **Machine Learning**
+- 🎓 **B.Tech CSE** – Rajkiya Engineering College, Azamgarh (2022–2026)  
+- 💡 Skilled in **AWS, Linux, Networking Protocols**  
+- 💻 Solved **250+ DSA problems**  
+- ⚙️ Interested in **Distributed Systems & Machine Learning**  
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Tech Stack  
 
-**Languages:** Java, C++, Python, Bash  
-**Web Technologies:** HTML5, CSS3, JavaScript, JSP, Servlets  
-**Frameworks:** Django, Angular, MERN  
-**Databases:** MySQL, SQLite, PostgreSQL  
-**Cloud & Tools:** AWS, Linux, Git/GitHub, REST APIs, TCP/IP  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,bash,html,css,js,react,nodejs,django,mysql,postgres,aws,linux,git" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandilyamishraabhishek&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandilyamishraabhishek&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandilyamishraabhishek&theme=react-dark" />
+</p>
 
 ---
 
 ## 🧩 Projects  
 
 ### 🔹 Cloud-Based Log Monitoring System  
-*Skills:* Python, Linux  
-> Developed a distributed log tracker to monitor real-time server events, integrated dashboards for alerts and analytics.
+🚀 *Python | Linux*  
+✔️ Real-time distributed log tracking  
+✔️ Alert dashboards & analytics  
+
+---
 
 ### 🔹 Banking Management System  
-*Skills:* C++, SQLite, Git  
-> Built a secure and efficient C++ system for managing transactions and users.
+💳 *C++ | SQLite*  
+✔️ Secure transaction system  
+✔️ Efficient user management  
+
+---
 
 ### 🔹 Library Management System  
-*Skills:* MERN Stack (ReactJS, Node.js, MongoDB)  
-> Designed a responsive web app with dynamic book search and role-based access control.
+📚 *MERN Stack*  
+✔️ Role-based access control  
+✔️ Dynamic search & responsive UI  
 
 ---
 
 ## 💼 Experience  
 
-### 🛰️ **Intern – BSNL (Aug 2025 – Sep 2025)**  
-> Worked with **TEJAS Network Management Software**, configured optical networks, and enhanced telecom domain knowledge.
+### 🛰️ Intern – BSNL (2025)  
+✔️ Worked on **TEJAS Network Management**  
+✔️ Configured optical networks  
 
-### 🤖 **AI/ML Intern – CodexIntern (Aug 2025)**  
-> Worked on data preprocessing, model development, and predictive analytics using **Python**, **scikit-learn**, and **deep learning**.
+### 🤖 AI/ML Intern – CodexIntern  
+✔️ Built ML models using **scikit-learn**  
+✔️ Data preprocessing & prediction  
 
 ---
 
 ## 🏅 Certifications  
 
-- Python (Advanced Level)  
-- C++ (Beginner to Advanced – Udemy)  
-- C-DAC Cybersecurity Internship  
+✔️ Python (Advanced)  
+✔️ C++ (Udemy)  
+✔️ C-DAC Cybersecurity Internship  
 
 ---
 
 ## 📫 Connect with Me  
 
-📧 [abhirec8081@gmail.com](mailto:abhirec8081@gmail.com)  
-💼 [LinkedIn](https://linkedin/)  
-💻 [GitHub](https://github/)  
-📊 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sandilyamish1k3c/)  
+<p align="center">
+  <a href="mailto:abhirec8081@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐ *"Striving to blend software engineering with networking and cloud innovation."*  
+## 👀 Profile Views  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandilyamishraabhishek&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
+---
+
+## 🧠 Fun Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐ *"Striving to blend software engineering with networking and cloud innovation."*
